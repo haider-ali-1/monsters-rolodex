@@ -38,6 +38,7 @@ class App extends React.Component {
           handleChange={this.handleChange}
         />
         <CardList monsters={filteredMonsters} />
+        <h3>Haider Ali</h3>
       </div>
     );
   }
